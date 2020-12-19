@@ -1,11 +1,6 @@
 /*
- * Purpose: Data Structure and Algorithms Assignment 1
- * Status: Complete and thoroughly tested
- * Last update: 09/4/20
- * Submitted:  09/9/20
- * Comment: Assignment 1
  * @author: Batuhan Kir
- * @version: 2020.09.05
+ * @version: 2020.05.05
  */
 public class Calender
 {
