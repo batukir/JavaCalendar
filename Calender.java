@@ -1,7 +1,4 @@
-/*
- * @author: Batuhan Kir
- * @version: 2020.05.05
- */
+
 public class Calender
 {
 	private String event;
